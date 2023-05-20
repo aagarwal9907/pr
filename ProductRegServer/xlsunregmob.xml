@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+                    <workbook>
+                        <worksheet name="Sheet1">
+                            <loop startRow="1" items="unRegMobobj.unRegModDetails" var="unregMob1" varType="com.vasanth.lab.bean.masterbean.UnRegModDetails">
+                                <loopbreakcondition>
+                                    <rowcheck offset="0">
+                                        <cellcheck offset="0"></cellcheck>
+                                    </rowcheck>
+                                </loopbreakcondition>
+                                <section startRow="1" endRow="1">
+                                    <mapping row="2" col="0">unregMob1.binspMob</mapping>
+                                    <mapping row="2" col="1">unregMob1.imeiMob</mapping>
+                                    <mapping row="2" col="2">unregMob1.urbandMark</mapping>
+                                    <mapping row="2" col="3">unregMob1.acCode</mapping>
+                                    <mapping row="2" col="4">unregMob1.acName</mapping>
+                                    <mapping row="2" col="5">unregMob1.rregYN</mapping>
+                                    <mapping row="2" col="6">unregMob1.regSr</mapping>
+                                </section>
+                            </loop>
+                        </worksheet>
+                    </workbook>

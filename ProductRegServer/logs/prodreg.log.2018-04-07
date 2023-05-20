@@ -1,0 +1,756 @@
+2018-04-07 12:47:04 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-07 12:47:16 DataScheduler [DEBUG] In Data Scheduler
+2018-04-07 12:48:28 DataScheduler [DEBUG] Done....
+2018-04-07 12:49:27 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-07 12:50:40 DataScheduler [DEBUG] Updating Database...DATAFILE_PRED
+2018-04-07 12:51:16 DataScheduler [DEBUG] Source is not a folder.
+2018-04-07 12:51:22 DataScheduler [DEBUG] Updating Database...DATAFILE_UNPRED
+2018-04-07 12:51:22 DataScheduler [DEBUG] Source is not a folder.
+2018-04-07 12:51:28 DataScheduler [DEBUG] Updating Database...BAD_LABELS
+2018-04-07 12:51:28 DataScheduler [DEBUG] Source is not a folder.
+2018-04-07 13:11:01 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-07 13:11:02 DataScheduler [DEBUG] In Data Scheduler
+2018-04-07 13:11:03 DataScheduler [DEBUG] Done....
+2018-04-07 13:12:03 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-07 13:12:12 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-07 13:12:32 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-07 13:14:05 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\BRANDMST\BRANDMST.XLS
+2018-04-07 13:17:12 DataScheduler [DEBUG] Uploading Applications
+2018-04-07 13:17:15 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@15f2cff0
+2018-04-07 13:17:55 ReadXMLFile [DEBUG] Updated XML attribute sheet as BRANDMST
+2018-04-07 15:38:11 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-07 15:38:13 DataScheduler [DEBUG] In Data Scheduler
+2018-04-07 15:38:14 DataScheduler [DEBUG] Done....
+2018-04-07 15:39:19 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-07 15:39:28 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-07 15:39:40 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\BRANDMST\BRANDMST.XLS
+2018-04-07 15:40:08 DataScheduler [DEBUG] Uploading Applications
+2018-04-07 15:40:11 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@500bb303
+2018-04-07 15:42:55 ReadXMLFile [DEBUG] C:\shubha\ProductRegServer - Copy\xlsbrandmaster.xml (The system cannot find the file specified)
+java.io.FileNotFoundException: C:\shubha\ProductRegServer - Copy\xlsbrandmaster.xml (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at java.io.FileInputStream.<init>(FileInputStream.java:101)
+	at sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:90)
+	at sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:188)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:613)
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:189)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:812)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:347)
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:205)
+	at ReadXMLFile.buildXslDocument(ReadXMLFile.java:65)
+	at ReadXMLFile.<clinit>(ReadXMLFile.java:42)
+	at DataScheduler.processXL(DataScheduler.java:514)
+	at DataScheduler.updateDataList(DataScheduler.java:132)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:60)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 15:43:32 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-07 15:43:35 DataScheduler [DEBUG] In Data Scheduler
+2018-04-07 15:43:35 DataScheduler [DEBUG] Done....
+2018-04-07 15:44:40 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-07 15:44:40 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-07 15:44:41 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\BRANDMST\BRANDMST.XLS
+2018-04-07 15:44:41 DataScheduler [DEBUG] Uploading Applications
+2018-04-07 15:44:41 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@6a8bda08
+2018-04-07 15:46:52 ReadXMLFile [DEBUG] Updated XML attribute sheet as BRANDMST
+2018-04-07 15:50:48 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-07 15:50:48 DataScheduler [DEBUG] In Data Scheduler
+2018-04-07 15:50:50 DataScheduler [DEBUG] Done....
+2018-04-07 15:51:26 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-07 15:51:26 DataScheduler [DEBUG] In Data Scheduler
+2018-04-07 15:51:26 DataScheduler [DEBUG] Done....
+2018-04-07 15:51:54 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-07 15:51:54 DataScheduler [DEBUG] In Data Scheduler
+2018-04-07 15:51:55 DataScheduler [DEBUG] Done....
+2018-04-07 15:52:39 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-07 15:52:39 DataScheduler [DEBUG] In Data Scheduler
+2018-04-07 15:52:40 DataScheduler [DEBUG] Done....
+2018-04-07 15:53:59 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-07 15:53:59 DataScheduler [DEBUG] In Data Scheduler
+2018-04-07 15:54:00 DataScheduler [DEBUG] Done....
+2018-04-07 15:55:21 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-07 15:55:43 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-07 15:55:44 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\BRANDMST\BRANDMST.XLS
+2018-04-07 15:55:44 DataScheduler [DEBUG] Uploading Applications
+2018-04-07 15:55:44 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@40213e13
+2018-04-07 15:56:05 ReadXMLFile [DEBUG] Updated XML attribute sheet as BRANDMST
+2018-04-07 15:58:44 DataScheduler [DEBUG] Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+org.xml.sax.SAXParseException; lineNumber: 3; columnNumber: 109; Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3363)
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3389)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1586)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1362)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2770)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1916)
+	at net.sf.jxls.reader.ReaderBuilder.buildFromXML(ReaderBuilder.java:54)
+	at DataScheduler.processXL(DataScheduler.java:518)
+	at DataScheduler.updateDataList(DataScheduler.java:132)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:60)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+Caused by: org.apache.commons.beanutils.ConversionException: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.beanutils.converters.AbstractConverter.handleError(AbstractConverter.java:267)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:164)
+	at org.apache.commons.beanutils.converters.ConverterFacade.convert(ConverterFacade.java:60)
+	at org.apache.commons.beanutils.ConvertUtilsBean.convert(ConvertUtilsBean.java:470)
+	at org.apache.commons.beanutils.BeanUtilsBean.setProperty(BeanUtilsBean.java:1006)
+	at org.apache.commons.beanutils.BeanUtilsBean.populate(BeanUtilsBean.java:830)
+	at org.apache.commons.beanutils.BeanUtils.populate(BeanUtils.java:433)
+	at org.apache.commons.digester.SetPropertiesRule.begin(SetPropertiesRule.java:254)
+	at org.apache.commons.digester.Rule.begin(Rule.java:177)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1583)
+	... 17 more
+Caused by: java.lang.ClassNotFoundException: BrandDetails
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at org.apache.commons.beanutils.converters.ClassConverter.convertToType(ClassConverter.java:100)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:156)
+	... 25 more
+2018-04-07 15:58:44 DataScheduler [DEBUG] Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+org.xml.sax.SAXParseException; lineNumber: 3; columnNumber: 109; Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3363)
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3389)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1586)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1362)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2770)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1916)
+	at net.sf.jxls.reader.ReaderBuilder.buildFromXML(ReaderBuilder.java:54)
+	at DataScheduler.processXL(DataScheduler.java:518)
+	at DataScheduler.updateDataList(DataScheduler.java:132)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:60)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+Caused by: org.apache.commons.beanutils.ConversionException: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.beanutils.converters.AbstractConverter.handleError(AbstractConverter.java:267)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:164)
+	at org.apache.commons.beanutils.converters.ConverterFacade.convert(ConverterFacade.java:60)
+	at org.apache.commons.beanutils.ConvertUtilsBean.convert(ConvertUtilsBean.java:470)
+	at org.apache.commons.beanutils.BeanUtilsBean.setProperty(BeanUtilsBean.java:1006)
+	at org.apache.commons.beanutils.BeanUtilsBean.populate(BeanUtilsBean.java:830)
+	at org.apache.commons.beanutils.BeanUtils.populate(BeanUtils.java:433)
+	at org.apache.commons.digester.SetPropertiesRule.begin(SetPropertiesRule.java:254)
+	at org.apache.commons.digester.Rule.begin(Rule.java:177)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1583)
+	... 17 more
+Caused by: java.lang.ClassNotFoundException: BrandDetails
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at org.apache.commons.beanutils.converters.ClassConverter.convertToType(ClassConverter.java:100)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:156)
+	... 25 more
+2018-04-07 16:00:00 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-07 16:00:00 DataScheduler [DEBUG] In Data Scheduler
+2018-04-07 16:00:01 DataScheduler [DEBUG] Done....
+2018-04-07 16:01:08 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-07 16:01:08 DataScheduler [DEBUG] Updating Database...UNREG_AUTH
+2018-04-07 16:01:08 DataScheduler [DEBUG] Source is not a folder.
+2018-04-07 16:01:39 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-07 16:03:19 DataScheduler [DEBUG] Updating Database...UNREG_AUTH
+2018-04-07 16:03:31 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\unregxls\BRANDMST.XLS
+2018-04-07 16:03:36 DataScheduler [DEBUG] Uploading Applications
+2018-04-07 16:03:36 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@2da8b2de
+2018-04-07 16:04:06 ReadXMLFile [DEBUG] Updated XML attribute sheet as BRANDMST
+2018-04-07 16:04:55 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:529)
+	at DataScheduler.updateDataList(DataScheduler.java:132)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:60)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 16:04:55 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:529)
+	at DataScheduler.updateDataList(DataScheduler.java:132)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:60)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 16:06:55 DataScheduler [DEBUG] After updateDatabase
+2018-04-07 16:06:58 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-07 16:06:58 DataScheduler [DEBUG] Updating Database...UNREG_AUTH
+2018-04-07 16:06:58 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\unregxls\BRANDMST.XLS
+2018-04-07 16:06:58 DataScheduler [DEBUG] Uploading Applications
+2018-04-07 16:06:58 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@639e24a1
+2018-04-07 16:07:37 ReadXMLFile [DEBUG] Updated XML attribute sheet as BRANDMST
+2018-04-07 16:09:17 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-07 16:09:17 DataScheduler [DEBUG] In Data Scheduler
+2018-04-07 16:09:18 DataScheduler [DEBUG] Done....
+2018-04-07 16:11:25 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-07 16:11:26 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-07 16:11:26 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\BRANDMST\BRANDMST.XLS
+2018-04-07 16:11:26 DataScheduler [DEBUG] Uploading Applications
+2018-04-07 16:11:26 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@2b52833d
+2018-04-07 16:11:33 ReadXMLFile [DEBUG] Updated XML attribute sheet as BRANDMST
+2018-04-07 16:12:29 DataScheduler [DEBUG] Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+org.xml.sax.SAXParseException; lineNumber: 3; columnNumber: 109; Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3363)
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3389)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1586)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1362)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2770)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1916)
+	at net.sf.jxls.reader.ReaderBuilder.buildFromXML(ReaderBuilder.java:54)
+	at DataScheduler.processXL(DataScheduler.java:518)
+	at DataScheduler.updateDataList(DataScheduler.java:132)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:60)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+Caused by: org.apache.commons.beanutils.ConversionException: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.beanutils.converters.AbstractConverter.handleError(AbstractConverter.java:267)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:164)
+	at org.apache.commons.beanutils.converters.ConverterFacade.convert(ConverterFacade.java:60)
+	at org.apache.commons.beanutils.ConvertUtilsBean.convert(ConvertUtilsBean.java:470)
+	at org.apache.commons.beanutils.BeanUtilsBean.setProperty(BeanUtilsBean.java:1006)
+	at org.apache.commons.beanutils.BeanUtilsBean.populate(BeanUtilsBean.java:830)
+	at org.apache.commons.beanutils.BeanUtils.populate(BeanUtils.java:433)
+	at org.apache.commons.digester.SetPropertiesRule.begin(SetPropertiesRule.java:254)
+	at org.apache.commons.digester.Rule.begin(Rule.java:177)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1583)
+	... 17 more
+Caused by: java.lang.ClassNotFoundException: BrandDetails
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at org.apache.commons.beanutils.converters.ClassConverter.convertToType(ClassConverter.java:100)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:156)
+	... 25 more
+2018-04-07 16:12:29 DataScheduler [DEBUG] Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+org.xml.sax.SAXParseException; lineNumber: 3; columnNumber: 109; Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3363)
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3389)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1586)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1362)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2770)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1916)
+	at net.sf.jxls.reader.ReaderBuilder.buildFromXML(ReaderBuilder.java:54)
+	at DataScheduler.processXL(DataScheduler.java:518)
+	at DataScheduler.updateDataList(DataScheduler.java:132)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:60)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+Caused by: org.apache.commons.beanutils.ConversionException: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.beanutils.converters.AbstractConverter.handleError(AbstractConverter.java:267)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:164)
+	at org.apache.commons.beanutils.converters.ConverterFacade.convert(ConverterFacade.java:60)
+	at org.apache.commons.beanutils.ConvertUtilsBean.convert(ConvertUtilsBean.java:470)
+	at org.apache.commons.beanutils.BeanUtilsBean.setProperty(BeanUtilsBean.java:1006)
+	at org.apache.commons.beanutils.BeanUtilsBean.populate(BeanUtilsBean.java:830)
+	at org.apache.commons.beanutils.BeanUtils.populate(BeanUtils.java:433)
+	at org.apache.commons.digester.SetPropertiesRule.begin(SetPropertiesRule.java:254)
+	at org.apache.commons.digester.Rule.begin(Rule.java:177)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1583)
+	... 17 more
+Caused by: java.lang.ClassNotFoundException: BrandDetails
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at org.apache.commons.beanutils.converters.ClassConverter.convertToType(ClassConverter.java:100)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:156)
+	... 25 more
+2018-04-07 16:17:52 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-07 16:17:52 DataScheduler [DEBUG] In Data Scheduler
+2018-04-07 16:17:53 DataScheduler [DEBUG] Done....
+2018-04-07 16:19:08 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-07 16:19:11 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-07 16:19:11 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\BRANDMST\BRANDMST.XLS
+2018-04-07 16:19:11 DataScheduler [DEBUG] Uploading Applications
+2018-04-07 16:19:11 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@7fdd37fe
+2018-04-07 16:19:22 ReadXMLFile [DEBUG] Updated XML attribute sheet as BRANDMST
+2018-04-07 16:20:00 XLSReaderImpl [INFO] Processing sheet BRANDMST
+2018-04-07 16:20:00 DataScheduler [DEBUG] 
+java.lang.NullPointerException
+	at net.sf.jxls.reader.XLSForEachBlockReaderImpl.createNewCollectionItem(XLSForEachBlockReaderImpl.java:66)
+	at net.sf.jxls.reader.XLSForEachBlockReaderImpl.read(XLSForEachBlockReaderImpl.java:43)
+	at net.sf.jxls.reader.XLSSheetReaderImpl.read(XLSSheetReaderImpl.java:25)
+	at net.sf.jxls.reader.XLSReaderImpl.readSheet(XLSReaderImpl.java:45)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:31)
+	at DataScheduler.processXL(DataScheduler.java:537)
+	at DataScheduler.updateDataList(DataScheduler.java:132)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:60)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 16:20:00 DataScheduler [DEBUG] 
+java.lang.NullPointerException
+	at net.sf.jxls.reader.XLSForEachBlockReaderImpl.createNewCollectionItem(XLSForEachBlockReaderImpl.java:66)
+	at net.sf.jxls.reader.XLSForEachBlockReaderImpl.read(XLSForEachBlockReaderImpl.java:43)
+	at net.sf.jxls.reader.XLSSheetReaderImpl.read(XLSSheetReaderImpl.java:25)
+	at net.sf.jxls.reader.XLSReaderImpl.readSheet(XLSReaderImpl.java:45)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:31)
+	at DataScheduler.processXL(DataScheduler.java:537)
+	at DataScheduler.updateDataList(DataScheduler.java:132)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:60)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 16:20:17 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-07 16:20:19 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-07 16:20:19 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\BRANDMST\BRANDMST.XLS
+2018-04-07 16:20:19 DataScheduler [DEBUG] Uploading Applications
+2018-04-07 16:20:19 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@5df8ad3e
+2018-04-07 16:20:34 ReadXMLFile [DEBUG] Updated XML attribute sheet as BRANDMST
+2018-04-07 17:26:53 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-07 17:26:53 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-07 17:26:53 DataScheduler [DEBUG] In Data Scheduler
+2018-04-07 17:26:53 DataScheduler [DEBUG] In Data Scheduler
+2018-04-07 17:26:54 DataScheduler [DEBUG] Done....
+2018-04-07 17:26:54 DataScheduler [DEBUG] Done....
+2018-04-07 17:28:26 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-07 17:28:26 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-07 17:28:28 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-07 17:28:28 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-07 17:28:28 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\BRANDMST\BRANDMST.xls
+2018-04-07 17:28:28 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\BRANDMST\BRANDMST.xls
+2018-04-07 17:28:28 DataScheduler [DEBUG] Uploading Applications
+2018-04-07 17:28:28 DataScheduler [DEBUG] Uploading Applications
+2018-04-07 17:28:28 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@701b9555
+2018-04-07 17:28:28 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@701b9555
+2018-04-07 17:28:37 ReadXMLFile [DEBUG] Updated XML attribute sheet as BRANDMST
+2018-04-07 17:28:37 ReadXMLFile [DEBUG] Updated XML attribute sheet as BRANDMST
+2018-04-07 17:29:29 XLSReaderImpl [INFO] Processing sheet Sheet1
+2018-04-07 17:29:29 XLSReaderImpl [INFO] Processing sheet Sheet1
+2018-04-07 17:33:42 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-07 17:33:42 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-07 17:33:42 DataScheduler [DEBUG] In Data Scheduler
+2018-04-07 17:33:42 DataScheduler [DEBUG] In Data Scheduler
+2018-04-07 17:33:43 DataScheduler [DEBUG] Done....
+2018-04-07 17:33:43 DataScheduler [DEBUG] Done....
+2018-04-07 17:35:16 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-07 17:35:16 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-07 17:35:16 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-07 17:35:16 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-07 17:35:16 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\BRANDMST\BRANDMST.xls
+2018-04-07 17:35:16 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\BRANDMST\BRANDMST.xls
+2018-04-07 17:35:16 DataScheduler [DEBUG] Uploading Applications
+2018-04-07 17:35:16 DataScheduler [DEBUG] Uploading Applications
+2018-04-07 17:35:16 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@19b5302d
+2018-04-07 17:35:16 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@19b5302d
+2018-04-07 17:35:22 ReadXMLFile [DEBUG] Updated XML attribute sheet as BRANDMST
+2018-04-07 17:35:22 ReadXMLFile [DEBUG] Updated XML attribute sheet as BRANDMST
+2018-04-07 17:35:28 XLSReaderImpl [INFO] Processing sheet BRANDMST
+2018-04-07 17:35:28 XLSReaderImpl [INFO] Processing sheet BRANDMST
+2018-04-07 17:35:28 DataScheduler [DEBUG] size=10
+2018-04-07 17:35:28 DataScheduler [DEBUG] size=10
+2018-04-07 17:36:15 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Data truncation: Data too long for column 'password' at row 1
+com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'password' at row 1
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2983)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:15 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Data truncation: Data too long for column 'password' at row 1
+com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'password' at row 1
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2983)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:18 DataScheduler [DEBUG] After updateDatabase
+2018-04-07 17:36:18 DataScheduler [DEBUG] After updateDatabase
+2018-04-07 17:36:19 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-07 17:36:19 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-07 17:36:19 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-07 17:36:19 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-07 17:36:19 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\BRANDMST\BRANDMST.xls
+2018-04-07 17:36:19 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\BRANDMST\BRANDMST.xls
+2018-04-07 17:36:19 DataScheduler [DEBUG] Uploading Applications
+2018-04-07 17:36:19 DataScheduler [DEBUG] Uploading Applications
+2018-04-07 17:36:19 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@741891e9
+2018-04-07 17:36:19 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@741891e9
+2018-04-07 17:36:23 ReadXMLFile [DEBUG] Updated XML attribute sheet as BRANDMST
+2018-04-07 17:36:23 ReadXMLFile [DEBUG] Updated XML attribute sheet as BRANDMST
+2018-04-07 17:36:26 XLSReaderImpl [INFO] Processing sheet BRANDMST
+2018-04-07 17:36:26 XLSReaderImpl [INFO] Processing sheet BRANDMST
+2018-04-07 17:36:26 DataScheduler [DEBUG] size=10
+2018-04-07 17:36:26 DataScheduler [DEBUG] size=10
+2018-04-07 17:36:26 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Data truncation: Data too long for column 'password' at row 1
+com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'password' at row 1
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2983)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:26 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Data truncation: Data too long for column 'password' at row 1
+com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'password' at row 1
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2983)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:26 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Duplicate entry 'shopper' for key 1
+com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry 'shopper' for key 1
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:931)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2985)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:26 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Duplicate entry 'shopper' for key 1
+com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry 'shopper' for key 1
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:931)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2985)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:26 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Duplicate entry 'A-ZONE' for key 1
+com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry 'A-ZONE' for key 1
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:931)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2985)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:26 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Duplicate entry 'A-ZONE' for key 1
+com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry 'A-ZONE' for key 1
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:931)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2985)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:26 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Duplicate entry 'INTERNATIONAL' for key 1
+com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry 'INTERNATIONAL' for key 1
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:931)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2985)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:26 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Duplicate entry 'INTERNATIONAL' for key 1
+com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry 'INTERNATIONAL' for key 1
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:931)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2985)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:26 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Duplicate entry 'FASHION LAB' for key 1
+com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry 'FASHION LAB' for key 1
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:931)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2985)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:26 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Duplicate entry 'FASHION LAB' for key 1
+com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry 'FASHION LAB' for key 1
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:931)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2985)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:26 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Duplicate entry 'KMART' for key 1
+com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry 'KMART' for key 1
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:931)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2985)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:26 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Duplicate entry 'KMART' for key 1
+com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry 'KMART' for key 1
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:931)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2985)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:26 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Duplicate entry 'RED CAMEL' for key 1
+com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry 'RED CAMEL' for key 1
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:931)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2985)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:26 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Duplicate entry 'RED CAMEL' for key 1
+com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry 'RED CAMEL' for key 1
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:931)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2985)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:26 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Duplicate entry 'ZODIAC' for key 1
+com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry 'ZODIAC' for key 1
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:931)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2985)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:26 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Duplicate entry 'ZODIAC' for key 1
+com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry 'ZODIAC' for key 1
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:931)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2985)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:26 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Duplicate entry 'SMILY WORLD' for key 1
+com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry 'SMILY WORLD' for key 1
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:931)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2985)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:26 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Duplicate entry 'SMILY WORLD' for key 1
+com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry 'SMILY WORLD' for key 1
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:931)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2985)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:26 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Duplicate entry 'DYNAFIX' for key 1
+com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry 'DYNAFIX' for key 1
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:931)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2985)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:26 DataScheduler [DEBUG] Error Inserting DB BrandMaster Exception: Duplicate entry 'DYNAFIX' for key 1
+com.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException: Duplicate entry 'DYNAFIX' for key 1
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:931)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2985)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1631)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1723)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3283)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1332)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1604)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1519)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1504)
+	at BrandMasterDataHandler.updateDatabase(BrandMasterDataHandler.java:37)
+	at DataScheduler.updateDataList(DataScheduler.java:146)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:62)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-07 17:36:29 DataScheduler [DEBUG] After updateDatabase
+2018-04-07 17:36:29 DataScheduler [DEBUG] After updateDatabase

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<project default="main">
+<taskdef resource="proguard/ant/task.properties"
+	classpath="D:\apps\proguard4.0.1\lib\proguard.jar" />
+<target name="main" depends="compile, jar, obfuscate"
+	description="Create project">
+	<echo>Creating project.</echo>
+</target>
+<target name="compile" description="Compile target">
+	<javac srcdir="src" destdir="bin"/>
+</target>
+<target name="jar" description="Jar target">
+	<jar jarfile="SMSProcessingServer.jar"
+		basedir="bin" includes="*.class">
+		<manifest>
+		<attribute name="Main-Class" value="SMSProcessingServer" />
+		</manifest>
+	</jar>
+</target>
+<target name="obfuscate" depends="jar"
+	description="Obfuscate compiled classes">
+	<proguard>
+		  -libraryjars "${java.home}\lib\rt.jar"
+		  -injars      PhotoStamper_debug.jar
+		  -outjars     SMSProcessingServer_out.jar
+		  -keep public class SMSProcessingServer {
+			public static void main(java.lang.String[]);
+			  }
+	</proguard>
+</target>
+</project>

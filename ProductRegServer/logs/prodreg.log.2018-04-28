@@ -1,0 +1,1376 @@
+2018-04-28 17:14:27 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 17:14:27 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 17:14:27 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 17:14:27 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 17:14:28 DataScheduler [DEBUG] Done....
+2018-04-28 17:14:28 DataScheduler [DEBUG] Done....
+2018-04-28 17:15:41 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 17:15:41 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 17:15:50 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 17:15:50 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 17:16:08 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 17:16:08 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 17:16:22 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 17:16:22 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 17:16:25 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@4f77e2b6
+2018-04-28 17:16:25 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@4f77e2b6
+2018-04-28 17:16:57 ReadXMLFile [DEBUG] Updated XML attribute sheet as QUESTION
+2018-04-28 17:16:57 ReadXMLFile [DEBUG] Updated XML attribute sheet as QUESTION
+2018-04-28 17:18:44 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 17:18:44 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 17:18:44 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 17:18:44 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 17:18:45 DataScheduler [DEBUG] Done....
+2018-04-28 17:18:45 DataScheduler [DEBUG] Done....
+2018-04-28 17:19:52 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 17:19:52 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 17:19:53 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 17:19:53 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 17:19:53 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 17:19:53 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 17:19:53 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 17:19:53 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 17:19:53 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@7d99eb6c
+2018-04-28 17:19:53 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@7d99eb6c
+2018-04-28 17:20:03 ReadXMLFile [DEBUG] Updated XML attribute sheet as QUESTION
+2018-04-28 17:20:03 ReadXMLFile [DEBUG] Updated XML attribute sheet as QUESTION
+2018-04-28 17:56:30 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 17:56:30 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 17:56:30 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 17:56:30 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 17:56:31 DataScheduler [DEBUG] Done....
+2018-04-28 17:56:31 DataScheduler [DEBUG] Done....
+2018-04-28 17:57:31 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 17:57:31 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 17:57:31 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 17:57:31 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 17:57:31 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 17:57:31 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 17:57:31 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 17:57:31 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 17:57:31 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@597c3925
+2018-04-28 17:57:31 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@597c3925
+2018-04-28 17:58:59 XLSReaderImpl [INFO] Processing sheet Sheet1
+2018-04-28 17:58:59 XLSReaderImpl [INFO] Processing sheet Sheet1
+2018-04-28 17:59:02 DataScheduler [DEBUG] size=0
+2018-04-28 17:59:02 DataScheduler [DEBUG] size=0
+2018-04-28 17:59:41 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 17:59:41 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 17:59:57 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 17:59:57 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 17:59:57 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 17:59:57 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 17:59:58 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 17:59:58 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 17:59:58 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 17:59:58 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 17:59:58 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@c96cb5a
+2018-04-28 17:59:58 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@c96cb5a
+2018-04-28 18:01:55 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 18:01:55 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 18:01:55 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 18:01:55 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 18:01:56 DataScheduler [DEBUG] Done....
+2018-04-28 18:01:56 DataScheduler [DEBUG] Done....
+2018-04-28 18:02:56 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:02:56 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:02:56 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:02:56 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:02:56 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 18:02:56 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 18:02:56 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:02:56 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:02:56 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@466de78a
+2018-04-28 18:02:56 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@466de78a
+2018-04-28 18:04:36 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 18:04:36 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 18:04:36 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 18:04:36 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 18:04:37 DataScheduler [DEBUG] Done....
+2018-04-28 18:04:37 DataScheduler [DEBUG] Done....
+2018-04-28 18:05:37 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:05:37 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:05:37 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:05:37 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:05:37 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 18:05:37 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 18:05:37 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:05:37 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:05:37 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@597c3925
+2018-04-28 18:05:37 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@597c3925
+2018-04-28 18:07:39 XLSReaderImpl [INFO] Processing sheet Sheet1
+2018-04-28 18:07:39 XLSReaderImpl [INFO] Processing sheet Sheet1
+2018-04-28 18:11:22 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 18:11:22 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 18:11:22 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 18:11:22 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 18:11:23 DataScheduler [DEBUG] Done....
+2018-04-28 18:11:23 DataScheduler [DEBUG] Done....
+2018-04-28 18:12:23 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:12:23 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:12:23 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:12:23 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:12:23 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 18:12:23 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 18:12:23 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:12:23 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:12:23 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@466de78a
+2018-04-28 18:12:23 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@466de78a
+2018-04-28 18:14:48 XLSReaderImpl [INFO] Processing sheet Sheet1
+2018-04-28 18:14:48 XLSReaderImpl [INFO] Processing sheet Sheet1
+2018-04-28 18:20:19 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 18:20:19 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 18:20:19 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 18:20:19 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 18:20:20 DataScheduler [DEBUG] Done....
+2018-04-28 18:20:20 DataScheduler [DEBUG] Done....
+2018-04-28 18:21:20 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:21:20 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:21:20 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:21:20 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:21:20 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 18:21:20 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 18:21:20 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:21:20 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:21:20 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@597c3925
+2018-04-28 18:21:20 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@597c3925
+2018-04-28 18:22:14 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 18:22:14 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 18:22:26 DataScheduler [DEBUG] size=8
+2018-04-28 18:22:26 DataScheduler [DEBUG] size=8
+2018-04-28 18:23:25 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 18:23:25 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 18:23:25 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:23:25 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:23:25 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:23:25 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:23:25 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 18:23:25 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 18:23:25 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:23:25 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:23:25 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@6e886140
+2018-04-28 18:23:25 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@6e886140
+2018-04-28 18:23:39 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 18:23:39 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 18:23:39 DataScheduler [DEBUG] size=8
+2018-04-28 18:23:39 DataScheduler [DEBUG] size=8
+2018-04-28 18:27:41 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 18:27:41 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 18:27:41 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:27:41 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:27:41 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:27:41 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:27:41 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\.~lock.QUESTION.xls#
+2018-04-28 18:27:41 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\.~lock.QUESTION.xls#
+2018-04-28 18:27:41 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:27:41 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:27:41 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@6b16d3cf
+2018-04-28 18:27:41 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@6b16d3cf
+2018-04-28 18:27:45 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:561)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:72)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-28 18:27:45 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:561)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:72)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-28 18:27:45 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:561)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:72)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-28 18:27:45 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:561)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:72)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-28 18:27:45 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 18:27:45 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 18:27:45 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:27:45 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:27:45 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@54a5733f
+2018-04-28 18:27:45 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@54a5733f
+2018-04-28 18:27:50 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 18:27:50 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 18:27:50 DataScheduler [DEBUG] size=30
+2018-04-28 18:27:50 DataScheduler [DEBUG] size=30
+2018-04-28 18:29:32 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 18:29:32 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 18:29:32 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 18:29:32 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 18:29:32 DataScheduler [DEBUG] Done....
+2018-04-28 18:29:32 DataScheduler [DEBUG] Done....
+2018-04-28 18:30:32 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:30:32 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:30:32 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:30:32 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:30:33 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 18:30:33 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 18:30:33 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:30:33 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:30:33 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@597c3925
+2018-04-28 18:30:33 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@597c3925
+2018-04-28 18:31:17 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 18:31:17 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 18:31:17 DataScheduler [DEBUG] size=27
+2018-04-28 18:31:17 DataScheduler [DEBUG] size=27
+2018-04-28 18:33:40 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 18:33:40 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 18:33:40 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 18:33:40 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 18:33:41 DataScheduler [DEBUG] Done....
+2018-04-28 18:33:41 DataScheduler [DEBUG] Done....
+2018-04-28 18:34:41 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:34:41 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:34:41 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:34:41 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:34:41 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 18:34:41 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 18:34:41 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:34:41 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:34:41 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@466de78a
+2018-04-28 18:34:41 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@466de78a
+2018-04-28 18:35:25 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 18:35:25 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 18:35:41 DataScheduler [DEBUG] size=8
+2018-04-28 18:35:41 DataScheduler [DEBUG] size=8
+2018-04-28 18:43:10 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 18:43:10 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 18:43:10 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 18:43:10 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 18:43:10 DataScheduler [DEBUG] Done....
+2018-04-28 18:43:10 DataScheduler [DEBUG] Done....
+2018-04-28 18:43:15 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 18:43:15 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 18:43:15 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 18:43:15 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 18:43:15 DataScheduler [DEBUG] Done....
+2018-04-28 18:43:15 DataScheduler [DEBUG] Done....
+2018-04-28 18:44:15 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:44:15 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:44:15 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:44:15 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:44:15 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\.~lock.QUESTION.xls#
+2018-04-28 18:44:15 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\.~lock.QUESTION.xls#
+2018-04-28 18:44:15 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:44:15 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:44:15 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@466de78a
+2018-04-28 18:44:15 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@466de78a
+2018-04-28 18:54:03 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 18:54:03 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 18:54:03 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 18:54:03 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 18:54:04 DataScheduler [DEBUG] Done....
+2018-04-28 18:54:04 DataScheduler [DEBUG] Done....
+2018-04-28 18:55:04 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:55:04 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:55:04 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:55:04 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:55:04 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\.~lock.QUESTION.xls#
+2018-04-28 18:55:04 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\.~lock.QUESTION.xls#
+2018-04-28 18:55:04 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:55:04 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:55:04 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@6a8bda08
+2018-04-28 18:55:04 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@6a8bda08
+2018-04-28 18:58:52 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 18:58:52 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 18:58:52 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 18:58:52 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 18:58:53 DataScheduler [DEBUG] Done....
+2018-04-28 18:58:53 DataScheduler [DEBUG] Done....
+2018-04-28 18:59:53 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:59:53 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 18:59:53 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:59:53 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 18:59:53 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\.~lock.QUESTION.xls#
+2018-04-28 18:59:53 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\.~lock.QUESTION.xls#
+2018-04-28 18:59:53 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:59:53 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 18:59:53 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@6a8bda08
+2018-04-28 18:59:53 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@6a8bda08
+2018-04-28 19:00:10 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:561)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:72)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-28 19:00:10 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:561)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:72)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-28 19:00:10 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:561)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:72)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-28 19:00:10 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:561)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:72)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-28 19:00:10 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 19:00:10 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 19:00:10 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:00:10 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:00:10 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@47125a42
+2018-04-28 19:00:10 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@47125a42
+2018-04-28 19:00:21 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 19:00:21 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 19:00:22 DataScheduler [DEBUG] size=8
+2018-04-28 19:00:22 DataScheduler [DEBUG] size=8
+2018-04-28 19:01:52 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 19:01:52 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 19:01:52 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 19:01:52 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 19:01:52 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 19:01:52 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 19:01:52 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\.~lock.QUESTION.xls#
+2018-04-28 19:01:52 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\.~lock.QUESTION.xls#
+2018-04-28 19:01:52 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:01:52 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:01:52 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@4a69de7c
+2018-04-28 19:01:52 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@4a69de7c
+2018-04-28 19:03:23 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 19:03:23 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 19:03:23 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 19:03:23 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 19:03:24 DataScheduler [DEBUG] Done....
+2018-04-28 19:03:24 DataScheduler [DEBUG] Done....
+2018-04-28 19:04:24 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 19:04:24 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 19:04:24 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-28 19:04:24 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-28 19:04:24 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\BRANDMST\BRANDMST.xls
+2018-04-28 19:04:24 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\BRANDMST\BRANDMST.xls
+2018-04-28 19:04:24 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:04:24 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:04:24 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@31b037fe
+2018-04-28 19:04:24 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@31b037fe
+2018-04-28 19:04:37 Digester [ERROR] Begin event threw exception
+org.apache.commons.beanutils.ConversionException: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.beanutils.converters.AbstractConverter.handleError(AbstractConverter.java:267)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:164)
+	at org.apache.commons.beanutils.converters.ConverterFacade.convert(ConverterFacade.java:60)
+	at org.apache.commons.beanutils.ConvertUtilsBean.convert(ConvertUtilsBean.java:470)
+	at org.apache.commons.beanutils.BeanUtilsBean.setProperty(BeanUtilsBean.java:1006)
+	at org.apache.commons.beanutils.BeanUtilsBean.populate(BeanUtilsBean.java:830)
+	at org.apache.commons.beanutils.BeanUtils.populate(BeanUtils.java:433)
+	at org.apache.commons.digester.SetPropertiesRule.begin(SetPropertiesRule.java:254)
+	at org.apache.commons.digester.Rule.begin(Rule.java:177)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1583)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1362)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2770)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1916)
+	at net.sf.jxls.reader.ReaderBuilder.buildFromXML(ReaderBuilder.java:54)
+	at DataScheduler.processXL(DataScheduler.java:534)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:71)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+Caused by: java.lang.ClassNotFoundException: BrandDetails
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at org.apache.commons.beanutils.converters.ClassConverter.convertToType(ClassConverter.java:100)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:156)
+	... 25 more
+2018-04-28 19:04:37 DataScheduler [DEBUG] Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+org.xml.sax.SAXParseException; lineNumber: 3; columnNumber: 109; Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3363)
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3389)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1586)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1362)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2770)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1916)
+	at net.sf.jxls.reader.ReaderBuilder.buildFromXML(ReaderBuilder.java:54)
+	at DataScheduler.processXL(DataScheduler.java:534)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:71)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+Caused by: org.apache.commons.beanutils.ConversionException: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.beanutils.converters.AbstractConverter.handleError(AbstractConverter.java:267)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:164)
+	at org.apache.commons.beanutils.converters.ConverterFacade.convert(ConverterFacade.java:60)
+	at org.apache.commons.beanutils.ConvertUtilsBean.convert(ConvertUtilsBean.java:470)
+	at org.apache.commons.beanutils.BeanUtilsBean.setProperty(BeanUtilsBean.java:1006)
+	at org.apache.commons.beanutils.BeanUtilsBean.populate(BeanUtilsBean.java:830)
+	at org.apache.commons.beanutils.BeanUtils.populate(BeanUtils.java:433)
+	at org.apache.commons.digester.SetPropertiesRule.begin(SetPropertiesRule.java:254)
+	at org.apache.commons.digester.Rule.begin(Rule.java:177)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1583)
+	... 17 more
+Caused by: java.lang.ClassNotFoundException: BrandDetails
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at org.apache.commons.beanutils.converters.ClassConverter.convertToType(ClassConverter.java:100)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:156)
+	... 25 more
+2018-04-28 19:04:37 DataScheduler [DEBUG] Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+org.xml.sax.SAXParseException; lineNumber: 3; columnNumber: 109; Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3363)
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3389)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1586)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1362)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2770)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1916)
+	at net.sf.jxls.reader.ReaderBuilder.buildFromXML(ReaderBuilder.java:54)
+	at DataScheduler.processXL(DataScheduler.java:534)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:71)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+Caused by: org.apache.commons.beanutils.ConversionException: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.beanutils.converters.AbstractConverter.handleError(AbstractConverter.java:267)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:164)
+	at org.apache.commons.beanutils.converters.ConverterFacade.convert(ConverterFacade.java:60)
+	at org.apache.commons.beanutils.ConvertUtilsBean.convert(ConvertUtilsBean.java:470)
+	at org.apache.commons.beanutils.BeanUtilsBean.setProperty(BeanUtilsBean.java:1006)
+	at org.apache.commons.beanutils.BeanUtilsBean.populate(BeanUtilsBean.java:830)
+	at org.apache.commons.beanutils.BeanUtils.populate(BeanUtils.java:433)
+	at org.apache.commons.digester.SetPropertiesRule.begin(SetPropertiesRule.java:254)
+	at org.apache.commons.digester.Rule.begin(Rule.java:177)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1583)
+	... 17 more
+Caused by: java.lang.ClassNotFoundException: BrandDetails
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at org.apache.commons.beanutils.converters.ClassConverter.convertToType(ClassConverter.java:100)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:156)
+	... 25 more
+2018-04-28 19:04:37 DataScheduler [DEBUG] Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+org.xml.sax.SAXParseException; lineNumber: 3; columnNumber: 109; Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3363)
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3389)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1586)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1362)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2770)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1916)
+	at net.sf.jxls.reader.ReaderBuilder.buildFromXML(ReaderBuilder.java:54)
+	at DataScheduler.processXL(DataScheduler.java:534)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:71)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+Caused by: org.apache.commons.beanutils.ConversionException: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.beanutils.converters.AbstractConverter.handleError(AbstractConverter.java:267)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:164)
+	at org.apache.commons.beanutils.converters.ConverterFacade.convert(ConverterFacade.java:60)
+	at org.apache.commons.beanutils.ConvertUtilsBean.convert(ConvertUtilsBean.java:470)
+	at org.apache.commons.beanutils.BeanUtilsBean.setProperty(BeanUtilsBean.java:1006)
+	at org.apache.commons.beanutils.BeanUtilsBean.populate(BeanUtilsBean.java:830)
+	at org.apache.commons.beanutils.BeanUtils.populate(BeanUtils.java:433)
+	at org.apache.commons.digester.SetPropertiesRule.begin(SetPropertiesRule.java:254)
+	at org.apache.commons.digester.Rule.begin(Rule.java:177)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1583)
+	... 17 more
+Caused by: java.lang.ClassNotFoundException: BrandDetails
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at org.apache.commons.beanutils.converters.ClassConverter.convertToType(ClassConverter.java:100)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:156)
+	... 25 more
+2018-04-28 19:04:37 DataScheduler [DEBUG] Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+org.xml.sax.SAXParseException; lineNumber: 3; columnNumber: 109; Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3363)
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3389)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1586)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1362)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2770)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1916)
+	at net.sf.jxls.reader.ReaderBuilder.buildFromXML(ReaderBuilder.java:54)
+	at DataScheduler.processXL(DataScheduler.java:534)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:71)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+Caused by: org.apache.commons.beanutils.ConversionException: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.beanutils.converters.AbstractConverter.handleError(AbstractConverter.java:267)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:164)
+	at org.apache.commons.beanutils.converters.ConverterFacade.convert(ConverterFacade.java:60)
+	at org.apache.commons.beanutils.ConvertUtilsBean.convert(ConvertUtilsBean.java:470)
+	at org.apache.commons.beanutils.BeanUtilsBean.setProperty(BeanUtilsBean.java:1006)
+	at org.apache.commons.beanutils.BeanUtilsBean.populate(BeanUtilsBean.java:830)
+	at org.apache.commons.beanutils.BeanUtils.populate(BeanUtils.java:433)
+	at org.apache.commons.digester.SetPropertiesRule.begin(SetPropertiesRule.java:254)
+	at org.apache.commons.digester.Rule.begin(Rule.java:177)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1583)
+	... 17 more
+Caused by: java.lang.ClassNotFoundException: BrandDetails
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at org.apache.commons.beanutils.converters.ClassConverter.convertToType(ClassConverter.java:100)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:156)
+	... 25 more
+2018-04-28 19:04:37 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 19:04:37 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 19:05:24 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 19:05:24 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 19:05:24 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-28 19:05:24 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-28 19:05:24 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\BRANDMST\BRANDMST.xls
+2018-04-28 19:05:24 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\BRANDMST\BRANDMST.xls
+2018-04-28 19:05:24 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:05:24 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:05:24 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@4453ca8a
+2018-04-28 19:05:24 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@4453ca8a
+2018-04-28 19:05:36 Digester [ERROR] Begin event threw exception
+org.apache.commons.beanutils.ConversionException: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.beanutils.converters.AbstractConverter.handleError(AbstractConverter.java:267)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:164)
+	at org.apache.commons.beanutils.converters.ConverterFacade.convert(ConverterFacade.java:60)
+	at org.apache.commons.beanutils.ConvertUtilsBean.convert(ConvertUtilsBean.java:470)
+	at org.apache.commons.beanutils.BeanUtilsBean.setProperty(BeanUtilsBean.java:1006)
+	at org.apache.commons.beanutils.BeanUtilsBean.populate(BeanUtilsBean.java:830)
+	at org.apache.commons.beanutils.BeanUtils.populate(BeanUtils.java:433)
+	at org.apache.commons.digester.SetPropertiesRule.begin(SetPropertiesRule.java:254)
+	at org.apache.commons.digester.Rule.begin(Rule.java:177)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1583)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1362)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2770)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1916)
+	at net.sf.jxls.reader.ReaderBuilder.buildFromXML(ReaderBuilder.java:54)
+	at DataScheduler.processXL(DataScheduler.java:534)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:71)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+Caused by: java.lang.ClassNotFoundException: BrandDetails
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at org.apache.commons.beanutils.converters.ClassConverter.convertToType(ClassConverter.java:100)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:156)
+	... 25 more
+2018-04-28 19:05:36 DataScheduler [DEBUG] Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+org.xml.sax.SAXParseException; lineNumber: 3; columnNumber: 109; Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3363)
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3389)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1586)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1362)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2770)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1916)
+	at net.sf.jxls.reader.ReaderBuilder.buildFromXML(ReaderBuilder.java:54)
+	at DataScheduler.processXL(DataScheduler.java:534)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:71)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+Caused by: org.apache.commons.beanutils.ConversionException: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.beanutils.converters.AbstractConverter.handleError(AbstractConverter.java:267)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:164)
+	at org.apache.commons.beanutils.converters.ConverterFacade.convert(ConverterFacade.java:60)
+	at org.apache.commons.beanutils.ConvertUtilsBean.convert(ConvertUtilsBean.java:470)
+	at org.apache.commons.beanutils.BeanUtilsBean.setProperty(BeanUtilsBean.java:1006)
+	at org.apache.commons.beanutils.BeanUtilsBean.populate(BeanUtilsBean.java:830)
+	at org.apache.commons.beanutils.BeanUtils.populate(BeanUtils.java:433)
+	at org.apache.commons.digester.SetPropertiesRule.begin(SetPropertiesRule.java:254)
+	at org.apache.commons.digester.Rule.begin(Rule.java:177)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1583)
+	... 17 more
+Caused by: java.lang.ClassNotFoundException: BrandDetails
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at org.apache.commons.beanutils.converters.ClassConverter.convertToType(ClassConverter.java:100)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:156)
+	... 25 more
+2018-04-28 19:05:36 DataScheduler [DEBUG] Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+org.xml.sax.SAXParseException; lineNumber: 3; columnNumber: 109; Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3363)
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3389)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1586)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1362)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2770)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1916)
+	at net.sf.jxls.reader.ReaderBuilder.buildFromXML(ReaderBuilder.java:54)
+	at DataScheduler.processXL(DataScheduler.java:534)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:71)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+Caused by: org.apache.commons.beanutils.ConversionException: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.beanutils.converters.AbstractConverter.handleError(AbstractConverter.java:267)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:164)
+	at org.apache.commons.beanutils.converters.ConverterFacade.convert(ConverterFacade.java:60)
+	at org.apache.commons.beanutils.ConvertUtilsBean.convert(ConvertUtilsBean.java:470)
+	at org.apache.commons.beanutils.BeanUtilsBean.setProperty(BeanUtilsBean.java:1006)
+	at org.apache.commons.beanutils.BeanUtilsBean.populate(BeanUtilsBean.java:830)
+	at org.apache.commons.beanutils.BeanUtils.populate(BeanUtils.java:433)
+	at org.apache.commons.digester.SetPropertiesRule.begin(SetPropertiesRule.java:254)
+	at org.apache.commons.digester.Rule.begin(Rule.java:177)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1583)
+	... 17 more
+Caused by: java.lang.ClassNotFoundException: BrandDetails
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at org.apache.commons.beanutils.converters.ClassConverter.convertToType(ClassConverter.java:100)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:156)
+	... 25 more
+2018-04-28 19:05:36 DataScheduler [DEBUG] Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+org.xml.sax.SAXParseException; lineNumber: 3; columnNumber: 109; Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3363)
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3389)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1586)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1362)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2770)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1916)
+	at net.sf.jxls.reader.ReaderBuilder.buildFromXML(ReaderBuilder.java:54)
+	at DataScheduler.processXL(DataScheduler.java:534)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:71)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+Caused by: org.apache.commons.beanutils.ConversionException: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.beanutils.converters.AbstractConverter.handleError(AbstractConverter.java:267)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:164)
+	at org.apache.commons.beanutils.converters.ConverterFacade.convert(ConverterFacade.java:60)
+	at org.apache.commons.beanutils.ConvertUtilsBean.convert(ConvertUtilsBean.java:470)
+	at org.apache.commons.beanutils.BeanUtilsBean.setProperty(BeanUtilsBean.java:1006)
+	at org.apache.commons.beanutils.BeanUtilsBean.populate(BeanUtilsBean.java:830)
+	at org.apache.commons.beanutils.BeanUtils.populate(BeanUtils.java:433)
+	at org.apache.commons.digester.SetPropertiesRule.begin(SetPropertiesRule.java:254)
+	at org.apache.commons.digester.Rule.begin(Rule.java:177)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1583)
+	... 17 more
+Caused by: java.lang.ClassNotFoundException: BrandDetails
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at org.apache.commons.beanutils.converters.ClassConverter.convertToType(ClassConverter.java:100)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:156)
+	... 25 more
+2018-04-28 19:05:36 DataScheduler [DEBUG] Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+org.xml.sax.SAXParseException; lineNumber: 3; columnNumber: 109; Error at line 3 char 109: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3363)
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3389)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1586)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(AbstractSAXParser.java:509)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1362)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2770)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1916)
+	at net.sf.jxls.reader.ReaderBuilder.buildFromXML(ReaderBuilder.java:54)
+	at DataScheduler.processXL(DataScheduler.java:534)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:71)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+Caused by: org.apache.commons.beanutils.ConversionException: Error converting from 'String' to 'Class' BrandDetails
+	at org.apache.commons.beanutils.converters.AbstractConverter.handleError(AbstractConverter.java:267)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:164)
+	at org.apache.commons.beanutils.converters.ConverterFacade.convert(ConverterFacade.java:60)
+	at org.apache.commons.beanutils.ConvertUtilsBean.convert(ConvertUtilsBean.java:470)
+	at org.apache.commons.beanutils.BeanUtilsBean.setProperty(BeanUtilsBean.java:1006)
+	at org.apache.commons.beanutils.BeanUtilsBean.populate(BeanUtilsBean.java:830)
+	at org.apache.commons.beanutils.BeanUtils.populate(BeanUtils.java:433)
+	at org.apache.commons.digester.SetPropertiesRule.begin(SetPropertiesRule.java:254)
+	at org.apache.commons.digester.Rule.begin(Rule.java:177)
+	at org.apache.commons.digester.Digester.startElement(Digester.java:1583)
+	... 17 more
+Caused by: java.lang.ClassNotFoundException: BrandDetails
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at org.apache.commons.beanutils.converters.ClassConverter.convertToType(ClassConverter.java:100)
+	at org.apache.commons.beanutils.converters.AbstractConverter.convert(AbstractConverter.java:156)
+	... 25 more
+2018-04-28 19:05:36 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 19:05:36 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 19:07:08 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 19:07:08 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 19:07:08 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 19:07:08 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 19:07:09 DataScheduler [DEBUG] Done....
+2018-04-28 19:07:09 DataScheduler [DEBUG] Done....
+2018-04-28 19:08:09 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 19:08:09 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 19:08:09 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-28 19:08:09 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-28 19:08:09 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\BRANDMST\BRANDMST.xls
+2018-04-28 19:08:09 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\BRANDMST\BRANDMST.xls
+2018-04-28 19:08:09 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:08:09 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:08:09 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@19b5302d
+2018-04-28 19:08:09 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@19b5302d
+2018-04-28 19:08:21 XLSReaderImpl [INFO] Processing sheet BRANDMST
+2018-04-28 19:08:21 XLSReaderImpl [INFO] Processing sheet BRANDMST
+2018-04-28 19:08:22 DataScheduler [DEBUG] size=10
+2018-04-28 19:08:22 DataScheduler [DEBUG] size=10
+2018-04-28 19:08:22 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 19:08:22 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 19:09:09 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 19:09:09 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 19:09:09 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-28 19:09:09 DataScheduler [DEBUG] Updating Database...BRANDMASTER
+2018-04-28 19:09:09 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\BRANDMST\BRANDMST.xls
+2018-04-28 19:09:09 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\BRANDMST\BRANDMST.xls
+2018-04-28 19:09:09 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:09:09 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:09:09 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@64a738be
+2018-04-28 19:09:09 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@64a738be
+2018-04-28 19:09:14 XLSReaderImpl [INFO] Processing sheet BRANDMST
+2018-04-28 19:09:14 XLSReaderImpl [INFO] Processing sheet BRANDMST
+2018-04-28 19:09:14 DataScheduler [DEBUG] size=10
+2018-04-28 19:09:14 DataScheduler [DEBUG] size=10
+2018-04-28 19:09:14 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 19:09:14 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 19:20:41 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 19:20:41 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 19:20:41 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 19:20:41 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 19:20:42 DataScheduler [DEBUG] Done....
+2018-04-28 19:20:42 DataScheduler [DEBUG] Done....
+2018-04-28 19:21:42 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 19:21:42 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 19:21:42 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 19:21:42 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 19:21:42 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 19:21:42 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 19:21:42 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 19:21:42 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 19:21:42 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:21:42 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:21:42 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@466de78a
+2018-04-28 19:21:42 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@466de78a
+2018-04-28 19:22:35 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 19:22:35 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 19:22:35 DataScheduler [DEBUG] size=8
+2018-04-28 19:22:35 DataScheduler [DEBUG] size=8
+2018-04-28 19:24:10 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 19:24:10 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 19:24:10 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 19:24:10 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 19:24:11 DataScheduler [DEBUG] Done....
+2018-04-28 19:24:11 DataScheduler [DEBUG] Done....
+2018-04-28 19:25:11 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 19:25:11 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 19:25:11 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 19:25:11 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 19:25:11 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 19:25:11 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 19:25:11 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 19:25:11 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 19:25:11 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:25:11 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:25:11 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@19b5302d
+2018-04-28 19:25:11 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@19b5302d
+2018-04-28 19:25:27 XLSReaderImpl [INFO] Processing sheet Sheet1
+2018-04-28 19:25:27 XLSReaderImpl [INFO] Processing sheet Sheet1
+2018-04-28 19:25:27 XLSReaderImpl [INFO] Processing sheet Sheet2
+2018-04-28 19:25:27 XLSReaderImpl [INFO] Processing sheet Sheet2
+2018-04-28 19:25:27 XLSReaderImpl [INFO] Processing sheet Sheet3
+2018-04-28 19:25:27 XLSReaderImpl [INFO] Processing sheet Sheet3
+2018-04-28 19:25:27 DataScheduler [DEBUG] size=0
+2018-04-28 19:25:27 DataScheduler [DEBUG] size=0
+2018-04-28 19:25:27 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 19:25:27 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 19:26:11 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 19:26:11 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 19:26:11 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 19:26:11 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 19:26:11 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\.~lock.QUESTION.xls#
+2018-04-28 19:26:11 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\.~lock.QUESTION.xls#
+2018-04-28 19:26:11 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:26:11 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:26:11 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@327f54e7
+2018-04-28 19:26:11 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@327f54e7
+2018-04-28 19:26:43 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:561)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:72)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-28 19:26:43 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:561)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:72)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-28 19:26:43 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:561)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:72)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-28 19:26:43 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:561)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:72)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-28 19:26:43 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 19:26:43 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 19:26:43 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 19:26:43 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 19:26:43 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:26:43 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:26:43 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@325c2d26
+2018-04-28 19:26:43 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@325c2d26
+2018-04-28 19:27:40 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 19:27:40 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 19:27:40 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 19:27:40 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 19:27:40 DataScheduler [DEBUG] Done....
+2018-04-28 19:27:40 DataScheduler [DEBUG] Done....
+2018-04-28 19:28:40 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 19:28:40 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 19:28:40 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 19:28:40 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 19:28:40 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 19:28:40 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 19:28:40 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 19:28:40 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 19:28:40 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:28:40 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:28:40 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@bea319b
+2018-04-28 19:28:40 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@bea319b
+2018-04-28 19:28:42 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 19:28:42 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 19:28:43 DataScheduler [DEBUG] size=8
+2018-04-28 19:28:43 DataScheduler [DEBUG] size=8
+2018-04-28 19:28:43 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 19:28:43 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 19:29:40 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 19:29:40 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 19:29:40 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 19:29:40 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 19:29:41 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 19:29:41 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 19:29:41 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 19:29:41 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 19:29:41 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:29:41 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 19:29:41 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@89bbe8c
+2018-04-28 19:29:41 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@89bbe8c
+2018-04-28 19:29:41 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 19:29:41 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 19:29:41 DataScheduler [DEBUG] size=8
+2018-04-28 19:29:41 DataScheduler [DEBUG] size=8
+2018-04-28 19:29:41 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 19:29:41 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 20:23:13 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 20:23:13 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 20:23:13 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 20:23:13 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 20:23:13 DataScheduler [DEBUG] Done....
+2018-04-28 20:23:13 DataScheduler [DEBUG] Done....
+2018-04-28 20:24:13 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 20:24:13 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 20:24:13 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 20:24:13 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 20:24:13 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\.~lock.QUESTION.xls#
+2018-04-28 20:24:13 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\.~lock.QUESTION.xls#
+2018-04-28 20:24:13 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 20:24:13 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 20:24:13 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@19b5302d
+2018-04-28 20:24:13 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@19b5302d
+2018-04-28 20:27:55 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 20:27:55 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 20:27:55 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 20:27:55 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 20:27:56 DataScheduler [DEBUG] Done....
+2018-04-28 20:27:56 DataScheduler [DEBUG] Done....
+2018-04-28 20:28:56 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 20:28:56 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 20:28:56 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 20:28:56 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 20:28:56 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\.~lock.QUESTION.xls#
+2018-04-28 20:28:56 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\.~lock.QUESTION.xls#
+2018-04-28 20:28:56 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 20:28:56 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 20:28:56 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@5ddfb8d0
+2018-04-28 20:28:56 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@5ddfb8d0
+2018-04-28 20:31:51 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 20:31:51 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 20:31:51 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 20:31:51 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 20:31:52 DataScheduler [DEBUG] Done....
+2018-04-28 20:31:52 DataScheduler [DEBUG] Done....
+2018-04-28 20:32:52 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 20:32:52 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 20:32:52 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 20:32:52 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 20:32:52 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 20:32:52 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 20:32:52 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 20:32:52 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 20:32:52 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 20:32:52 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 20:32:52 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@6fd90825
+2018-04-28 20:32:52 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@6fd90825
+2018-04-28 20:32:54 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 20:32:54 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 20:32:54 DataScheduler [DEBUG] size=8
+2018-04-28 20:32:54 DataScheduler [DEBUG] size=8
+2018-04-28 20:32:54 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 20:32:54 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 20:38:26 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 20:38:26 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 20:38:26 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 20:38:26 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 20:38:27 DataScheduler [DEBUG] Done....
+2018-04-28 20:38:27 DataScheduler [DEBUG] Done....
+2018-04-28 20:39:27 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 20:39:27 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 20:39:27 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 20:39:27 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 20:39:27 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 20:39:27 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 20:39:27 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 20:39:27 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 20:39:27 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 20:39:27 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 20:39:27 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@6a8bda08
+2018-04-28 20:39:27 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@6a8bda08
+2018-04-28 20:39:56 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 20:39:56 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 20:39:56 DataScheduler [DEBUG] size=8
+2018-04-28 20:39:56 DataScheduler [DEBUG] size=8
+2018-04-28 20:41:06 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 20:41:06 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 20:41:06 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 20:41:06 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 20:41:07 DataScheduler [DEBUG] Done....
+2018-04-28 20:41:07 DataScheduler [DEBUG] Done....
+2018-04-28 20:42:07 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 20:42:07 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 20:42:07 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 20:42:07 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 20:42:07 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 20:42:07 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 20:42:07 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 20:42:07 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 20:42:07 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 20:42:07 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 20:42:07 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@19b5302d
+2018-04-28 20:42:07 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@19b5302d
+2018-04-28 20:42:39 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 20:42:39 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 20:42:39 DataScheduler [DEBUG] size=8
+2018-04-28 20:42:39 DataScheduler [DEBUG] size=8
+2018-04-28 20:46:36 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 20:46:36 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 20:46:36 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 20:46:36 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 20:46:37 DataScheduler [DEBUG] Done....
+2018-04-28 20:46:37 DataScheduler [DEBUG] Done....
+2018-04-28 20:47:37 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 20:47:37 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 20:47:37 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 20:47:37 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 20:47:37 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 20:47:37 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 20:47:37 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 20:47:37 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 20:47:37 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 20:47:37 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 20:47:37 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@6fd90825
+2018-04-28 20:47:37 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@6fd90825
+2018-04-28 20:47:39 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 20:47:39 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 20:47:39 DataScheduler [DEBUG] size=8
+2018-04-28 20:47:39 DataScheduler [DEBUG] size=8
+2018-04-28 20:47:40 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 20:47:40 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 20:52:08 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 20:52:08 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 20:52:08 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 20:52:08 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 20:52:09 DataScheduler [DEBUG] Done....
+2018-04-28 20:52:09 DataScheduler [DEBUG] Done....
+2018-04-28 20:53:09 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 20:53:09 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 20:53:09 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 20:53:09 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 20:53:09 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 20:53:09 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 20:53:09 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 20:53:09 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 20:53:09 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 20:53:09 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 20:53:09 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@39779de
+2018-04-28 20:53:09 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@39779de
+2018-04-28 20:53:40 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 20:53:40 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 20:53:40 JexlEngine [WARN] net.sf.jxls.reader.ExpressionCollectionParser.findCollectionProperties@108![0,32]: 'questiondetailsobj.getQdetailsLs;' undefined variable questiondetailsobj.getQdetailsLs
+2018-04-28 20:53:40 DataScheduler [DEBUG] 
+java.lang.NullPointerException
+	at net.sf.jxls.reader.XLSForEachBlockReaderImpl.createNewCollectionItem(XLSForEachBlockReaderImpl.java:66)
+	at net.sf.jxls.reader.XLSForEachBlockReaderImpl.read(XLSForEachBlockReaderImpl.java:43)
+	at net.sf.jxls.reader.XLSSheetReaderImpl.read(XLSSheetReaderImpl.java:25)
+	at net.sf.jxls.reader.XLSReaderImpl.readSheet(XLSReaderImpl.java:45)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:31)
+	at DataScheduler.processXL(DataScheduler.java:561)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:72)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-28 20:53:40 DataScheduler [DEBUG] 
+java.lang.NullPointerException
+	at net.sf.jxls.reader.XLSForEachBlockReaderImpl.createNewCollectionItem(XLSForEachBlockReaderImpl.java:66)
+	at net.sf.jxls.reader.XLSForEachBlockReaderImpl.read(XLSForEachBlockReaderImpl.java:43)
+	at net.sf.jxls.reader.XLSSheetReaderImpl.read(XLSSheetReaderImpl.java:25)
+	at net.sf.jxls.reader.XLSReaderImpl.readSheet(XLSReaderImpl.java:45)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:31)
+	at DataScheduler.processXL(DataScheduler.java:561)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:72)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-28 20:53:40 DataScheduler [DEBUG] 
+java.lang.NullPointerException
+	at net.sf.jxls.reader.XLSForEachBlockReaderImpl.createNewCollectionItem(XLSForEachBlockReaderImpl.java:66)
+	at net.sf.jxls.reader.XLSForEachBlockReaderImpl.read(XLSForEachBlockReaderImpl.java:43)
+	at net.sf.jxls.reader.XLSSheetReaderImpl.read(XLSSheetReaderImpl.java:25)
+	at net.sf.jxls.reader.XLSReaderImpl.readSheet(XLSReaderImpl.java:45)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:31)
+	at DataScheduler.processXL(DataScheduler.java:561)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:72)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-28 20:53:40 DataScheduler [DEBUG] 
+java.lang.NullPointerException
+	at net.sf.jxls.reader.XLSForEachBlockReaderImpl.createNewCollectionItem(XLSForEachBlockReaderImpl.java:66)
+	at net.sf.jxls.reader.XLSForEachBlockReaderImpl.read(XLSForEachBlockReaderImpl.java:43)
+	at net.sf.jxls.reader.XLSSheetReaderImpl.read(XLSSheetReaderImpl.java:25)
+	at net.sf.jxls.reader.XLSReaderImpl.readSheet(XLSReaderImpl.java:45)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:31)
+	at DataScheduler.processXL(DataScheduler.java:561)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:72)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-28 20:53:40 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 20:53:40 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 20:57:12 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 20:57:12 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 20:57:12 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 20:57:12 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 20:57:13 DataScheduler [DEBUG] Done....
+2018-04-28 20:57:13 DataScheduler [DEBUG] Done....
+2018-04-28 20:58:13 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 20:58:13 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 20:58:13 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 20:58:13 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 20:58:13 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 20:58:13 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 20:58:13 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 20:58:13 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 20:58:13 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 20:58:13 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 20:58:13 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@5ddfb8d0
+2018-04-28 20:58:13 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@5ddfb8d0
+2018-04-28 20:58:21 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 20:58:21 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 20:58:21 JexlEngine [WARN] net.sf.jxls.reader.ExpressionCollectionParser.findCollectionProperties@108![0,32]: 'questiondetailsobj.getQdetailsLs;' undefined variable questiondetailsobj.getQdetailsLs
+2018-04-28 20:58:21 DataScheduler [DEBUG] 
+java.lang.NullPointerException
+	at net.sf.jxls.reader.XLSForEachBlockReaderImpl.createNewCollectionItem(XLSForEachBlockReaderImpl.java:66)
+	at net.sf.jxls.reader.XLSForEachBlockReaderImpl.read(XLSForEachBlockReaderImpl.java:43)
+	at net.sf.jxls.reader.XLSSheetReaderImpl.read(XLSSheetReaderImpl.java:25)
+	at net.sf.jxls.reader.XLSReaderImpl.readSheet(XLSReaderImpl.java:45)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:31)
+	at DataScheduler.processXL(DataScheduler.java:561)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:72)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-28 20:58:21 DataScheduler [DEBUG] 
+java.lang.NullPointerException
+	at net.sf.jxls.reader.XLSForEachBlockReaderImpl.createNewCollectionItem(XLSForEachBlockReaderImpl.java:66)
+	at net.sf.jxls.reader.XLSForEachBlockReaderImpl.read(XLSForEachBlockReaderImpl.java:43)
+	at net.sf.jxls.reader.XLSSheetReaderImpl.read(XLSSheetReaderImpl.java:25)
+	at net.sf.jxls.reader.XLSReaderImpl.readSheet(XLSReaderImpl.java:45)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:31)
+	at DataScheduler.processXL(DataScheduler.java:561)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:72)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-28 20:58:21 DataScheduler [DEBUG] 
+java.lang.NullPointerException
+	at net.sf.jxls.reader.XLSForEachBlockReaderImpl.createNewCollectionItem(XLSForEachBlockReaderImpl.java:66)
+	at net.sf.jxls.reader.XLSForEachBlockReaderImpl.read(XLSForEachBlockReaderImpl.java:43)
+	at net.sf.jxls.reader.XLSSheetReaderImpl.read(XLSSheetReaderImpl.java:25)
+	at net.sf.jxls.reader.XLSReaderImpl.readSheet(XLSReaderImpl.java:45)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:31)
+	at DataScheduler.processXL(DataScheduler.java:561)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:72)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-28 20:58:21 DataScheduler [DEBUG] 
+java.lang.NullPointerException
+	at net.sf.jxls.reader.XLSForEachBlockReaderImpl.createNewCollectionItem(XLSForEachBlockReaderImpl.java:66)
+	at net.sf.jxls.reader.XLSForEachBlockReaderImpl.read(XLSForEachBlockReaderImpl.java:43)
+	at net.sf.jxls.reader.XLSSheetReaderImpl.read(XLSSheetReaderImpl.java:25)
+	at net.sf.jxls.reader.XLSReaderImpl.readSheet(XLSReaderImpl.java:45)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:31)
+	at DataScheduler.processXL(DataScheduler.java:561)
+	at DataScheduler.updateDataList(DataScheduler.java:144)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:72)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-04-28 20:58:21 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 20:58:21 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 21:01:05 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 21:01:05 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 21:01:05 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 21:01:05 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 21:01:06 DataScheduler [DEBUG] Done....
+2018-04-28 21:01:06 DataScheduler [DEBUG] Done....
+2018-04-28 21:02:06 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 21:02:06 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 21:02:06 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 21:02:06 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 21:02:06 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 21:02:06 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 21:02:06 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 21:02:06 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 21:02:06 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 21:02:06 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 21:02:06 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@5ddfb8d0
+2018-04-28 21:02:06 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@5ddfb8d0
+2018-04-28 21:02:11 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 21:02:11 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 21:02:12 DataScheduler [DEBUG] size=9
+2018-04-28 21:02:12 DataScheduler [DEBUG] size=9
+2018-04-28 21:04:22 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 21:04:22 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 21:04:22 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 21:04:22 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 21:04:23 DataScheduler [DEBUG] Done....
+2018-04-28 21:04:23 DataScheduler [DEBUG] Done....
+2018-04-28 21:05:23 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 21:05:23 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 21:05:23 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 21:05:23 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 21:05:23 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 21:05:23 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 21:05:23 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 21:05:23 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 21:05:23 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 21:05:23 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 21:05:23 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@597c3925
+2018-04-28 21:05:23 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@597c3925
+2018-04-28 21:05:36 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 21:05:36 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 21:05:36 DataScheduler [DEBUG] size=8
+2018-04-28 21:05:36 DataScheduler [DEBUG] size=8
+2018-04-28 21:08:04 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 21:08:04 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 21:08:04 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 21:08:04 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 21:08:05 DataScheduler [DEBUG] Done....
+2018-04-28 21:08:05 DataScheduler [DEBUG] Done....
+2018-04-28 21:09:05 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 21:09:05 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 21:09:05 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 21:09:05 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 21:09:05 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 21:09:05 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 21:09:05 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 21:09:05 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 21:09:05 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 21:09:05 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 21:09:05 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@5ddfb8d0
+2018-04-28 21:09:05 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@5ddfb8d0
+2018-04-28 21:09:07 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 21:09:07 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 21:09:07 DataScheduler [DEBUG] size=8
+2018-04-28 21:09:07 DataScheduler [DEBUG] size=8
+2018-04-28 21:12:45 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 21:12:45 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-04-28 21:12:45 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 21:12:45 DataScheduler [DEBUG] In Data Scheduler
+2018-04-28 21:12:46 DataScheduler [DEBUG] Done....
+2018-04-28 21:12:46 DataScheduler [DEBUG] Done....
+2018-04-28 21:13:46 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 21:13:46 DataScheduler [DEBUG] Calling updateDatabase
+2018-04-28 21:13:46 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 21:13:46 DataScheduler [DEBUG] Updating Database...QUESTION
+2018-04-28 21:13:46 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 21:13:46 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\processed
+2018-04-28 21:13:46 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 21:13:46 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\QUESTIONS\QUESTION.xls
+2018-04-28 21:13:46 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 21:13:46 DataScheduler [DEBUG] Uploading Applications
+2018-04-28 21:13:46 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@11a5ee81
+2018-04-28 21:13:46 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@11a5ee81
+2018-04-28 21:13:48 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 21:13:48 XLSReaderImpl [INFO] Processing sheet QUESTION
+2018-04-28 21:13:48 DataScheduler [DEBUG] size=8
+2018-04-28 21:13:48 DataScheduler [DEBUG] size=8
+2018-04-28 21:13:48 DataScheduler [DEBUG] After updateDatabase
+2018-04-28 21:13:48 DataScheduler [DEBUG] After updateDatabase

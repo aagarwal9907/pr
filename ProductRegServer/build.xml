@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. -->
+<project basedir="." default="build" name="ProductRegServer">
+	<property name="jar.classpath" value="lib/*"/>
+	<property environment="env"/>
+	<property name="ECLIPSE_HOME" value="../../shuba/eclipse/"/>
+	<property name="debuglevel" value="source,lines,vars"/>
+
+	<path id="ProductRegServer.classpath">
+		<pathelement location="bin"/>
+		<pathelement location="lib/commons-beanutils-1.8.3.jar"/>
+		<pathelement location="lib/commons-collections-3.1.jar"/>
+		<pathelement location="lib/commons-digester-2.1.jar"/>
+		<pathelement location="lib/commons-fileupload-1.2.2.jar"/>
+		<pathelement location="lib/commons-io-1.4.jar"/>
+		<pathelement location="lib/commons-jexl-2.0.jar"/>
+		<pathelement location="lib/commons-logging-1.1.1.jar"/>
+		<pathelement location="lib/jstl-api-1.2.jar"/>
+		<pathelement location="lib/jstl-impl-1.2.jar"/>
+		<pathelement location="lib/jxls-core-1.0-RC-1.jar"/>
+		<pathelement location="lib/jxls-reader-1.0-RC-1.jar"/>
+		<pathelement location="lib/log4j-1.2.15.jar"/>
+		<pathelement location="lib/mysql-connector-java-5.0.8-bin.jar"/>
+		<pathelement location="lib/mysql-connector-j-8.0.32.jar"/>
+		<pathelement location="lib/poi-3.7-20101029.jar"/>
+		<pathelement location="lib/poi-ooxml-3.6.jar"/>
+		<pathelement location="lib/xmlbeans-2.5.0.jar"/>
+		<pathelement location="lib/RegisterBeans.jar"/>
+		<pathelement location="lib/mail.jar"/>
+		<pathelement location="lib/masterbean.jar"/>
+		<pathelement location="lib/velocity-1.7.jar"/>
+		 <fileset dir="${basedir}">
+		     <include name="lib/*.jar"/>
+		  </fileset>
+	</path>
+	<pathconvert property="manifest.classpath" pathsep=" ">
+		<path refid="ProductRegServer.classpath"/>
+		<mapper>
+			<chainedmapper>
+				<flattenmapper/>
+				<globmapper from="*.jar" to="lib/*.jar"/>
+			</chainedmapper>
+		</mapper>
+	</pathconvert>
+	<target name="init">
+		<mkdir dir="bin"/>
+		<copy includeemptydirs="false" todir="bin">
+			<fileset dir="src">
+				<exclude name="**/*.java"/>
+			</fileset>
+		</copy>
+	</target>
+	<target name="clean">
+		<delete dir="bin"/>
+	</target>
+	<target name="jar" description="Jar target">
+		<jar jarfile="SMSProcessingServer.jar"
+  			basedir="bin" includes="*.*,**/**.class">
+			<manifest>
+				<attribute name="Main-Class" value="SMSProcessingServer" />
+				<attribute name="Class-Path" value="${manifest.classpath}"/>
+			</manifest>
+		</jar>
+	</target>
+	<target depends="clean" name="cleanall"/>
+	<target depends="build-subprojects,build-project,jar" name="build"/>
+	<target name="build-subprojects"/>
+	<target depends="init" name="build-project">
+		<echo message="${ant.project.name}: ${ant.file}"/>
+		<javac  debug="true" debuglevel="${debuglevel}" destdir="bin" includeantruntime="false">
+			<src path="src"/>
+			<classpath refid="ProductRegServer.classpath"/>
+		</javac>
+	</target>
+	<target description="Build all projects which reference this project. Useful to propagate changes." name="build-refprojects"/>
+	<target description="copy Eclipse compiler jars to ant lib directory" name="init-eclipse-compiler">
+		<copy todir="${ant.library.dir}">
+			<fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+		</copy>
+		<unzip dest="${ant.library.dir}">
+			<patternset includes="jdtCompilerAdapter.jar"/>
+			<fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+		</unzip>
+	</target>
+	<target description="compile project with Eclipse compiler" name="build-eclipse-compiler">
+		<property name="build.compiler" value="org.eclipse.jdt.core.JDTCompilerAdapter"/>
+		<antcall target="build"/>
+	</target>
+	<target name="GoogleReceiveMail">
+		<java classname="com.vasanth.lab.mail.GoogleReceiveMail" failonerror="true" fork="yes">
+			<arg line="2014-01-01 2015-01-01"/>
+			<classpath refid="ProductRegServer.classpath"/>
+		</java>
+	</target>
+	<target name="GoogleTest">
+		<java classname="com.vasanth.lab.mail.GoogleTest" failonerror="true" fork="yes">
+			<classpath refid="ProductRegServer.classpath"/>
+		</java>
+	</target>
+	<target name="reportgen">
+		<java classname="com.vasanth.lab.report.reportgen" failonerror="true" fork="yes">
+			<arg line="2015-04-01 2018-06-30"/>
+			<classpath refid="ProductRegServer.classpath"/>
+		</java>
+	</target>
+	<target name="SchedulerTestMain">
+		<java classname="SchedulerTestMain" failonerror="true" fork="yes">
+			<classpath refid="ProductRegServer.classpath"/>
+		</java>
+	</target>
+	<target name="SMSProcessingServer">
+		<java classname="SMSProcessingServer" failonerror="true" fork="yes">
+			<classpath refid="ProductRegServer.classpath"/>
+		</java>
+	</target>
+	<target name="TestSocket">
+		<java classname="com.vasanth.lab.mail.TestSocket" failonerror="true" fork="yes">
+			<classpath refid="ProductRegServer.classpath"/>
+		</java>
+	</target>
+</project>

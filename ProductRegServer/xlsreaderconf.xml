@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+                    <workbook>
+                        <worksheet name="Sheet2">
+                            <loop startRow="1" items="registrations.appls" var="regdtl" varType="RegistrationDetail">
+                                <loopbreakcondition>
+                                    <rowcheck offset="0">
+                                        <cellcheck offset="0"></cellcheck>
+                                    </rowcheck>
+                                </loopbreakcondition>
+                                <section startRow="1" endRow="1">
+                                    <mapping row="2" col="0">regdtl.orderno</mapping>
+                                    <mapping row="2" col="1">regdtl.startseqno</mapping>
+                                    <mapping row="2" col="2">regdtl.endseqno</mapping>
+                                    <mapping row="2" col="3">regdtl.brand</mapping>
+                                    <mapping row="2" col="4">regdtl.remark2</mapping>
+                                    <mapping row="2" col="5">regdtl.remark3</mapping>
+                                    <mapping row="2" col="6">regdtl.remark4</mapping>
+                                    <mapping row="2" col="7">regdtl.remark5</mapping>
+                                    <mapping row="2" col="8">regdtl.remark6</mapping>
+                                    <mapping row="2" col="9">regdtl.remark7</mapping>
+                                    <mapping row="2" col="10">regdtl.prodcode</mapping>
+                                    <mapping row="2" col="11">regdtl.qtty</mapping>
+                                    <mapping row="2" col="12">regdtl.mobile</mapping>
+                                    <mapping row="2" col="13">regdtl.ac_name</mapping>
+                                    <mapping row="2" col="14">regdtl.desp_name</mapping>
+                                    <mapping row="2" col="15">regdtl.predicttype</mapping>
+                                    <mapping row="2" col="16">regdtl.passwd</mapping>
+                                    <mapping row="2" col="17">regdtl.passwdsec</mapping>
+                                    <mapping row="2" col="18">regdtl.passwdloc</mapping>
+                                    <mapping row="2" col="19">regdtl.despyn</mapping>
+                                    <mapping row="2" col="20">regdtl.docno</mapping>
+                                    <mapping row="2" col="21">regdtl.date</mapping>
+                                    <mapping row="2" col="22">regdtl.batchno</mapping>
+                                    <mapping row="2" col="23">regdtl.recno</mapping>
+                                    <mapping row="2" col="24">regdtl.brandwebsite</mapping>
+                                    <mapping row="2" col="25">regdtl.cust_fback</mapping>
+                                    <mapping row="2" col="26">regdtl.day</mapping>
+                                    <mapping row="2" col="27">regdtl.pmember</mapping>
+                                    <mapping row="2" col="28">regdtl.surveyqns</mapping>
+                                </section>
+                            </loop>
+                        </worksheet>
+                    </workbook>

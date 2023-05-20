@@ -1,0 +1,572 @@
+2018-07-07 22:43:05 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 22:43:05 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 22:43:05 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 22:43:05 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 22:43:06 DataScheduler [DEBUG] Done....
+2018-07-07 22:43:06 DataScheduler [DEBUG] Done....
+2018-07-07 22:44:12 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 22:44:12 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 22:44:12 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 22:44:12 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 22:44:13 DataScheduler [DEBUG] Done....
+2018-07-07 22:44:13 DataScheduler [DEBUG] Done....
+2018-07-07 22:45:13 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 22:45:13 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 22:45:28 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 22:45:28 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 22:45:36 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 22:45:36 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 22:45:43 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 22:45:43 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 22:45:49 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 22:45:49 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 22:45:49 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@3ba0fcfb
+2018-07-07 22:45:49 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@3ba0fcfb
+2018-07-07 22:46:10 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:379)
+	at DataScheduler.updateDataList(DataScheduler.java:123)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:73)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-07-07 22:46:10 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:379)
+	at DataScheduler.updateDataList(DataScheduler.java:123)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:73)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-07-07 22:46:10 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:379)
+	at DataScheduler.updateDataList(DataScheduler.java:123)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:73)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-07-07 22:46:10 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:379)
+	at DataScheduler.updateDataList(DataScheduler.java:123)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:73)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-07-07 22:46:10 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 22:46:10 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 22:46:13 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 22:46:13 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 22:47:13 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 22:47:13 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 22:47:13 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 22:47:13 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 22:47:13 DataScheduler [DEBUG] Done....
+2018-07-07 22:47:13 DataScheduler [DEBUG] Done....
+2018-07-07 22:48:13 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 22:48:13 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 22:48:18 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 22:48:18 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 22:48:33 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 22:48:33 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 22:48:37 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 22:48:37 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 22:49:12 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 22:49:12 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 22:49:20 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@5f0dd6db
+2018-07-07 22:49:20 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@5f0dd6db
+2018-07-07 22:52:31 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 22:52:31 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 22:52:32 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 22:52:32 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 22:52:32 DataScheduler [DEBUG] Done....
+2018-07-07 22:52:32 DataScheduler [DEBUG] Done....
+2018-07-07 22:53:32 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 22:53:32 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 22:53:46 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 22:53:46 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 22:53:52 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 22:53:52 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 22:53:55 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 22:53:55 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 22:54:02 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 22:54:02 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 22:54:03 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@d818ff0
+2018-07-07 22:54:03 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@d818ff0
+2018-07-07 22:54:57 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:379)
+	at DataScheduler.updateDataList(DataScheduler.java:123)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:73)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-07-07 22:54:57 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:379)
+	at DataScheduler.updateDataList(DataScheduler.java:123)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:73)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-07-07 22:54:57 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:379)
+	at DataScheduler.updateDataList(DataScheduler.java:123)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:73)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-07-07 22:54:57 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:379)
+	at DataScheduler.updateDataList(DataScheduler.java:123)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:73)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-07-07 22:54:57 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 22:54:57 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 22:54:57 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 22:54:57 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:05:23 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 23:05:23 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 23:05:23 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 23:05:23 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 23:05:24 DataScheduler [DEBUG] Done....
+2018-07-07 23:05:24 DataScheduler [DEBUG] Done....
+2018-07-07 23:06:24 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:06:24 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:07:16 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:07:16 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:07:20 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\.~lock.UNREGMOB.XLS#
+2018-07-07 23:07:20 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\.~lock.UNREGMOB.XLS#
+2018-07-07 23:07:23 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:07:23 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:07:23 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@562ccf18
+2018-07-07 23:07:23 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@562ccf18
+2018-07-07 23:10:53 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:379)
+	at DataScheduler.updateDataList(DataScheduler.java:123)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:73)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-07-07 23:10:53 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:379)
+	at DataScheduler.updateDataList(DataScheduler.java:123)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:73)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-07-07 23:10:53 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:379)
+	at DataScheduler.updateDataList(DataScheduler.java:123)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:73)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-07-07 23:10:53 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:379)
+	at DataScheduler.updateDataList(DataScheduler.java:123)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:73)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-07-07 23:10:53 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:10:53 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:10:53 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:10:53 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:14:41 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 23:14:41 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 23:14:41 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 23:14:41 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 23:14:41 DataScheduler [DEBUG] Done....
+2018-07-07 23:14:41 DataScheduler [DEBUG] Done....
+2018-07-07 23:15:41 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:15:41 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:16:22 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:16:22 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:16:28 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:16:28 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:16:29 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:16:29 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:16:33 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:16:33 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:16:33 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@413eabd9
+2018-07-07 23:16:33 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@413eabd9
+2018-07-07 23:17:52 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:17:52 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:17:58 DataScheduler [DEBUG] size=7
+2018-07-07 23:17:58 DataScheduler [DEBUG] size=7
+2018-07-07 23:18:06 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:18:06 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:18:06 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:18:06 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:18:11 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:18:11 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:23:19 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 23:23:19 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 23:23:19 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 23:23:19 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 23:23:19 DataScheduler [DEBUG] Done....
+2018-07-07 23:23:19 DataScheduler [DEBUG] Done....
+2018-07-07 23:24:19 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:24:19 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:24:19 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:24:19 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:24:19 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\.~lock.UNREGMOB.XLS#
+2018-07-07 23:24:19 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\.~lock.UNREGMOB.XLS#
+2018-07-07 23:24:19 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:24:19 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:24:19 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@5ba71e88
+2018-07-07 23:24:19 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@5ba71e88
+2018-07-07 23:24:20 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:379)
+	at DataScheduler.updateDataList(DataScheduler.java:123)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:73)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-07-07 23:24:20 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:379)
+	at DataScheduler.updateDataList(DataScheduler.java:123)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:73)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-07-07 23:24:20 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:379)
+	at DataScheduler.updateDataList(DataScheduler.java:123)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:73)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-07-07 23:24:20 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:379)
+	at DataScheduler.updateDataList(DataScheduler.java:123)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:73)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-07-07 23:24:20 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:24:20 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:24:20 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:24:20 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:24:20 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:24:20 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:24:20 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@7add9724
+2018-07-07 23:24:20 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@7add9724
+2018-07-07 23:24:20 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:24:20 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:24:20 DataScheduler [DEBUG] size=7
+2018-07-07 23:24:20 DataScheduler [DEBUG] size=7
+2018-07-07 23:24:20 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:24:20 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:24:41 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 23:24:41 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 23:24:41 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 23:24:41 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 23:24:41 DataScheduler [DEBUG] Done....
+2018-07-07 23:24:41 DataScheduler [DEBUG] Done....
+2018-07-07 23:25:41 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:25:41 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:25:41 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:25:41 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:25:41 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\.~lock.UNREGMOB.XLS#
+2018-07-07 23:25:41 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\.~lock.UNREGMOB.XLS#
+2018-07-07 23:25:41 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:25:41 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:25:41 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@5ba71e88
+2018-07-07 23:25:41 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@5ba71e88
+2018-07-07 23:25:42 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:379)
+	at DataScheduler.updateDataList(DataScheduler.java:123)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:73)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-07-07 23:25:42 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:379)
+	at DataScheduler.updateDataList(DataScheduler.java:123)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:73)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-07-07 23:25:42 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:379)
+	at DataScheduler.updateDataList(DataScheduler.java:123)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:73)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-07-07 23:25:42 DataScheduler [DEBUG] Your InputStream was neither an OLE2 stream, nor an OOXML stream
+java.lang.IllegalArgumentException: Your InputStream was neither an OLE2 stream, nor an OOXML stream
+	at org.apache.poi.ss.usermodel.WorkbookFactory.create(WorkbookFactory.java:65)
+	at net.sf.jxls.reader.XLSReaderImpl.read(XLSReaderImpl.java:29)
+	at DataScheduler.processXL(DataScheduler.java:379)
+	at DataScheduler.updateDataList(DataScheduler.java:123)
+	at DataScheduler$SchedulerThread.run(DataScheduler.java:73)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+2018-07-07 23:25:42 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:25:42 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:25:42 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:25:42 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:25:42 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:25:42 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:25:42 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@1017e84b
+2018-07-07 23:25:42 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@1017e84b
+2018-07-07 23:25:42 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:25:42 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:25:42 DataScheduler [DEBUG] size=7
+2018-07-07 23:25:42 DataScheduler [DEBUG] size=7
+2018-07-07 23:25:42 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:25:42 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:26:30 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 23:26:30 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 23:26:30 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 23:26:30 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 23:26:30 DataScheduler [DEBUG] Done....
+2018-07-07 23:26:30 DataScheduler [DEBUG] Done....
+2018-07-07 23:27:30 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:27:30 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:27:30 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:27:30 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:27:30 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:27:30 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:27:30 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:27:30 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:27:30 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:27:30 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:27:30 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@38c5a1ba
+2018-07-07 23:27:30 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@38c5a1ba
+2018-07-07 23:27:31 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:27:31 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:27:31 DataScheduler [DEBUG] size=7
+2018-07-07 23:27:31 DataScheduler [DEBUG] size=7
+2018-07-07 23:27:31 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:27:31 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:28:30 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:28:30 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:28:30 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:28:30 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:28:30 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:28:30 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:28:30 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:28:30 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:28:30 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:28:30 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:28:30 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@457b9183
+2018-07-07 23:28:30 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@457b9183
+2018-07-07 23:28:30 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:28:30 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:28:30 DataScheduler [DEBUG] size=7
+2018-07-07 23:28:30 DataScheduler [DEBUG] size=7
+2018-07-07 23:28:30 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:28:30 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:29:30 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:29:30 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:29:30 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:29:30 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:29:30 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:29:30 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:29:30 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:29:30 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:29:30 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:29:30 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:29:30 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@324eba57
+2018-07-07 23:29:30 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@324eba57
+2018-07-07 23:29:30 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:29:30 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:29:30 DataScheduler [DEBUG] size=7
+2018-07-07 23:29:30 DataScheduler [DEBUG] size=7
+2018-07-07 23:29:30 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:29:30 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:29:36 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 23:29:36 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 23:29:36 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 23:29:36 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 23:29:37 DataScheduler [DEBUG] Done....
+2018-07-07 23:29:37 DataScheduler [DEBUG] Done....
+2018-07-07 23:30:37 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:30:37 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:30:41 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:30:41 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:30:42 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:30:42 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:30:42 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:30:42 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:30:43 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:30:43 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:30:43 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@6d99723f
+2018-07-07 23:30:43 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@6d99723f
+2018-07-07 23:30:45 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:30:45 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:30:46 DataScheduler [DEBUG] size=7
+2018-07-07 23:30:46 DataScheduler [DEBUG] size=7
+2018-07-07 23:35:37 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 23:35:37 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 23:35:37 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 23:35:37 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 23:35:38 DataScheduler [DEBUG] Done....
+2018-07-07 23:35:38 DataScheduler [DEBUG] Done....
+2018-07-07 23:36:38 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:36:38 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:38:39 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:38:39 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:38:40 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:38:40 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:38:40 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:38:40 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:38:41 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:38:41 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:38:41 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@68d5c08f
+2018-07-07 23:38:41 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@68d5c08f
+2018-07-07 23:38:43 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:38:43 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:38:43 DataScheduler [DEBUG] size=7
+2018-07-07 23:38:43 DataScheduler [DEBUG] size=7
+2018-07-07 23:38:43 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:38:43 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:38:43 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:38:43 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:38:49 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:38:49 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:38:50 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:38:50 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:38:50 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:38:50 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:38:51 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:38:51 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:38:51 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@a93df59
+2018-07-07 23:38:51 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@a93df59
+2018-07-07 23:38:52 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:38:52 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:38:52 DataScheduler [DEBUG] size=7
+2018-07-07 23:38:52 DataScheduler [DEBUG] size=7
+2018-07-07 23:38:52 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:38:52 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:38:52 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:38:52 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:38:53 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:38:53 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:38:54 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:38:54 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:38:54 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:38:54 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:38:55 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:38:55 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:38:55 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@50b7114a
+2018-07-07 23:38:55 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@50b7114a
+2018-07-07 23:38:56 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:38:56 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:38:56 DataScheduler [DEBUG] size=7
+2018-07-07 23:38:56 DataScheduler [DEBUG] size=7
+2018-07-07 23:38:56 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:38:56 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:39:38 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:39:38 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:41:17 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 23:41:17 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 23:41:17 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 23:41:17 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 23:41:18 DataScheduler [DEBUG] Done....
+2018-07-07 23:41:18 DataScheduler [DEBUG] Done....
+2018-07-07 23:42:18 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:42:18 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:42:24 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:42:24 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:42:34 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:42:34 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:42:35 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:42:35 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:42:38 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:42:38 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:42:38 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@413eabd9
+2018-07-07 23:42:38 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@413eabd9
+2018-07-07 23:43:05 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:43:05 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:43:07 DataScheduler [DEBUG] size=7
+2018-07-07 23:43:07 DataScheduler [DEBUG] size=7
+2018-07-07 23:44:25 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:44:25 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:44:25 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:44:25 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:44:26 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:44:26 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:44:27 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:44:27 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:44:27 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:44:27 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:44:28 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:44:28 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:44:28 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@496d98af
+2018-07-07 23:44:28 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@496d98af
+2018-07-07 23:44:29 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:44:29 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:44:29 DataScheduler [DEBUG] size=7
+2018-07-07 23:44:29 DataScheduler [DEBUG] size=7
+2018-07-07 23:45:24 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 23:45:24 SchedulerStarter [DEBUG] In SchedulerStarter
+2018-07-07 23:45:24 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 23:45:24 DataScheduler [DEBUG] In Data Scheduler
+2018-07-07 23:45:25 DataScheduler [DEBUG] Done....
+2018-07-07 23:45:25 DataScheduler [DEBUG] Done....
+2018-07-07 23:46:25 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:46:25 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:46:34 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:46:34 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:46:35 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:46:35 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:46:35 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:46:35 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\UNREGMOB.XLS
+2018-07-07 23:46:35 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:46:35 DataScheduler [DEBUG] Uploading Applications
+2018-07-07 23:46:35 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@e9f0070
+2018-07-07 23:46:35 DataScheduler [DEBUG] xlfile=java.io.FileInputStream@e9f0070
+2018-07-07 23:46:37 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:46:37 XLSReaderImpl [INFO] Processing sheet UNREGMOB
+2018-07-07 23:46:38 DataScheduler [DEBUG] size=7
+2018-07-07 23:46:38 DataScheduler [DEBUG] size=7
+2018-07-07 23:47:28 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:47:28 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:47:28 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:47:28 DataScheduler [DEBUG] Calling updateDatabase
+2018-07-07 23:47:30 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:47:30 DataScheduler [DEBUG] Updating Database...UNREGMOB
+2018-07-07 23:47:33 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:47:33 DataScheduler [DEBUG] filepath=C:\shubha\prjpriyash\UNREGMOB\processed
+2018-07-07 23:47:33 DataScheduler [DEBUG] After updateDatabase
+2018-07-07 23:47:33 DataScheduler [DEBUG] After updateDatabase

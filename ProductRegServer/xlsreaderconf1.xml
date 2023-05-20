@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+                    <workbook>
+                        <worksheet name="Sheet2">
+                            <loop startRow="1" items="genericbeanlist.appls" var="gendata" varType="GenericBean">
+                                <loopbreakcondition>
+                                    <rowcheck offset="0">
+                                        <cellcheck offset="0"></cellcheck>
+                                    </rowcheck>
+                                </loopbreakcondition>
+                                <section startRow="1" endRow="1">
+                                    <mapping row="2" col="0">gendata.v1</mapping>
+                                    <mapping row="2" col="1">gendata.v2</mapping>
+                                    <mapping row="2" col="2">gendata.v3</mapping>
+                                    <mapping row="2" col="3">gendata.v4</mapping>
+                                    <mapping row="2" col="4">gendata.v5</mapping>
+                                    <mapping row="2" col="5">gendata.v6</mapping>
+                                    <mapping row="2" col="6">gendata.v7</mapping>
+                                    <mapping row="2" col="7">gendata.v8</mapping>
+                                    <mapping row="2" col="8">gendata.v9</mapping>
+                                    <mapping row="2" col="9">gendata.v10</mapping>
+                                    <mapping row="2" col="10">gendata.v11</mapping>
+                                    <mapping row="2" col="11">gendata.v12</mapping>
+                                    <mapping row="2" col="12">gendata.v13</mapping>
+                                    <mapping row="2" col="13">gendata.v14</mapping>
+                                    <mapping row="2" col="14">gendata.v15</mapping>
+                                    <mapping row="2" col="15">gendata.v16</mapping>
+                                </section>
+                            </loop>
+                        </worksheet>
+                    </workbook>

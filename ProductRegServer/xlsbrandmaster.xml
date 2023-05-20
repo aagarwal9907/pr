@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+                    <workbook>
+                        <worksheet name="Sheet1">
+                            <loop startRow="1" items="brandObj.brand" var="branddtl" varType="com.vasanth.lab.bean.masterbean.BrandDetails">
+                                <loopbreakcondition>
+                                    <rowcheck offset="0">
+                                        <cellcheck offset="0"></cellcheck>
+                                    </rowcheck>
+                                </loopbreakcondition>
+                                <section startRow="1" endRow="1">
+                                    <mapping row="2" col="0">branddtl.name</mapping>
+                                    <mapping row="2" col="1">branddtl.successMessage</mapping>
+                                    <mapping row="2" col="2">branddtl.failMessage</mapping>
+                                    <mapping row="2" col="3">branddtl.password</mapping>
+                                    <mapping row="2" col="4">branddtl.email</mapping>
+                                    <mapping row="2" col="5">branddtl.day</mapping>
+                                    <mapping row="2" col="6">branddtl.busername</mapping>
+                                    <mapping row="2" col="7">branddtl.buserpwd</mapping>
+                                </section>
+                            </loop>
+                        </worksheet>
+                    </workbook>

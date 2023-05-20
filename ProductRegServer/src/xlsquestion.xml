@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+                    <workbook>
+                        <worksheet name="Sheet1">
+                            <loop startRow="1" items="questiondetailsobj.qdetailsLs" var="qd" varType="com.vasanth.lab.bean.masterbean.QuestionDetails">
+                                <loopbreakcondition>
+                                    <rowcheck offset="0">
+								        <cellcheck offset="0"></cellcheck>
+                                    </rowcheck>
+                                </loopbreakcondition>
+                                <section startRow="1" endRow="1">
+                                    <mapping row="2" col="0">qd.questionno</mapping>
+                                    <mapping row="2" col="1">qd.questionen</mapping>
+                                </section>
+                            </loop>
+                        </worksheet>
+                    </workbook>
